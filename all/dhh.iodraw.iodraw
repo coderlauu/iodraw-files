@@ -13,6 +13,12 @@
         <mxCell id="WNaF_9VRazxpFz-gMqpH-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1、首页新增2种类型的统计，待审核、已审核&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;对应接口：/getstat_amtbByDAQU&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="-1160" width="366" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="WNaF_9VRazxpFz-gMqpH-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312.12" y="-710" as="sourcePoint" />
+            <mxPoint x="362.12" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
