@@ -43,8 +43,8 @@
             <mxPoint x="1241" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WNaF_9VRazxpFz-gMqpH-11" value="新增大区财务审核页面，对于后端主要新增一个“驳回原因”字段，以及两个接口“通过”，“驳回”" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="-920" width="530" height="40" as="geometry" />
+        <mxCell id="WNaF_9VRazxpFz-gMqpH-12" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;列表新增2种状态，待审核、已审核&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;对应接口：/getlst_amtb&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="-1130" width="366" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
