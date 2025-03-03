@@ -43,6 +43,9 @@
             <mxPoint x="1241" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WNaF_9VRazxpFz-gMqpH-11" value="新增大区财务审核页面，对于后端主要新增一个“驳回原因”字段，以及两个接口“通过”，“驳回”" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-920" width="530" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
