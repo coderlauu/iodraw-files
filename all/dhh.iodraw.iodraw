@@ -31,6 +31,9 @@
             <mxPoint x="400" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WNaF_9VRazxpFz-gMqpH-8" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;2、&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;列表新增2种状态，待审核、已审核&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;对应接口：/getlst_amtb&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-1140" width="366" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
